@@ -2,11 +2,23 @@
 
 Full Stack Developer & Founder — building **DriverX**, a ride-hailing platform for Nicaragua and Central America, solo: architecture, backend, mobile apps, and production deployment.
 
-Background: 7 years as a data analyst, transitioned into full stack development by building real production projects rather than working through simulators.
+Background: Computer Engineer with 7 years of experience as a Data Analyst, transitioned into full stack software development by building real production projects rather than working through simulators.
 
 ---
 
-### 🚗 Current project: DriverX
+### 💼 Background
+
+**Data Analyst (7 years)**
+Worked on process optimization and technology implementation, achieving significant reductions in energy losses through data-driven solutions. Hands-on with Excel/VBA, Access, Power BI, and SQL/PostgreSQL — the analytical foundation I now apply to software architecture and product decisions.
+
+**Founder — Techno Services**
+Digital marketing agency serving small and medium businesses (web development, social media, Google Ads).
+
+**Computer Engineering** — 2011–2016
+
+---
+
+### 🚗 Featured project: DriverX
 
 A complete ride-hailing platform currently in active pilot in Managua, Nicaragua, with real users and trips completing end-to-end.
 
@@ -27,9 +39,16 @@ A complete ride-hailing platform currently in active pilot in Managua, Nicaragua
 
 ---
 
+### 📈 Other project: Boot Trading
+
+An automated cryptocurrency trading system built around a custom multi-factor scoring algorithm (0–100 scale), combining trend, market structure, volume, volatility, and momentum analysis across multiple timeframes, with a dedicated risk-management layer.
+
+**Stack:** Python · CCXT (Binance integration)
+
+---
+
 ### 🛠️ Other technical interests
 
-- Algorithmic trading and quantitative analysis (Python)
 - Financial markets and crypto — long-term investment approach
 - Actively exploring blockchain development (Substrate)
 
