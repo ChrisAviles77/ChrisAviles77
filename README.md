@@ -1,42 +1,42 @@
-# Hola, soy Antony 👋
+# Hi, I'm Antony 👋
 
-Full Stack Developer & Founder — construyendo **DriverX**, una plataforma de ride-hailing para Nicaragua y Centroamérica, en solitario: arquitectura, backend, apps móviles y despliegue en producción.
+Full Stack Developer & Founder — building **DriverX**, a ride-hailing platform for Nicaragua and Central America, solo: architecture, backend, mobile apps, and production deployment.
 
-Vengo de 7 años como analista de datos, y aprendí desarrollo full stack construyendo con datos y proyectos reales en producción en lugar de simuladores.
+Background: 7 years as a data analyst, transitioned into full stack development by building real production projects rather than working through simulators.
 
 ---
 
-### 🚗 Proyecto actual: DriverX
+### 🚗 Current project: DriverX
 
-Plataforma completa de ride-hailing en piloto activo en Managua, Nicaragua, con usuarios reales y viajes completándose de principio a fin.
+A complete ride-hailing platform currently in active pilot in Managua, Nicaragua, with real users and trips completing end-to-end.
 
 **Stack:**
 - **Backend:** Node.js · TypeScript · Express · Prisma · Socket.IO · PostgreSQL/PostGIS
-- **Apps móviles:** React Native (Expo) — pasajero y conductor, con actualizaciones OTA
+- **Mobile apps:** React Native (Expo) — passenger and driver apps, with OTA updates
 - **Admin panel:** React
-- **Infraestructura:** Render, Cloudflare R2, Firebase (push notifications)
+- **Infrastructure:** Render, Cloudflare R2, Firebase (push notifications)
 
-**Algunas features que construí de punta a punta:**
-- Matching de conductores en tiempo real por radios de búsqueda progresivos
-- Motor de precios dinámico con recargos geoespaciales (PostGIS) y niveles de servicio
-- Negociación libre de tarifas entre pasajero y conductor con contraofertas
-- Sistema anti-fraude: PIN de verificación de viajes, penalización por cancelaciones, barrido de viajes abandonados
-- Verificación de identidad de pasajeros con flujo de aprobación
+**Features built end-to-end:**
+- Real-time driver matching using progressive search radii
+- Dynamic pricing engine with geospatial pickup surcharges (PostGIS) and service tiers
+- Free-form fare negotiation between passenger and driver, with counteroffers
+- Anti-fraud system: trip-start PIN verification, cancellation penalties, abandoned-trip sweeps
+- Passenger identity verification with an approval workflow
 
-📍 [driverx-web](https://github.com/ChrisAviles77/driverx-web) — landing page del proyecto
-
----
-
-### 🛠️ Otros intereses técnicos
-
-- Trading algorítmico y análisis cuantitativo (Python)
-- Mercados financieros y cripto — inversión con enfoque de largo plazo
-- Interés activo en explorar blockchain / Substrate
+📍 [driverx-web](https://github.com/ChrisAviles77/driverx-web) — project landing page
 
 ---
 
-### 📫 Contacto
+### 🛠️ Other technical interests
 
-Abierto a conversar sobre desarrollo full stack, cloud (Azure/Render), o construir producto desde cero.
+- Algorithmic trading and quantitative analysis (Python)
+- Financial markets and crypto — long-term investment approach
+- Actively exploring blockchain development (Substrate)
 
-*Nota: gran parte de mi trabajo en DriverX vive en repos privados por ser producto en producción con datos reales de usuarios — pero la actividad se refleja en mi gráfico de contribuciones.*
+---
+
+### 📫 Contact
+
+Open to conversations about full stack development, cloud infrastructure (Azure/Render), or building products from scratch.
+
+*Note: most of the DriverX codebase lives in private repositories, as it's a production system handling real user data — activity is reflected in my contribution graph.*
